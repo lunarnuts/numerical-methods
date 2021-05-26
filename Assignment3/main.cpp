@@ -1,6 +1,6 @@
 #include "finite_difference.h"
 // Double Barrier knock-out option pricing by Finite Differene Method.
-// Created by Aigerim Tursynbekova (C) 2021.
+// Created by lunarnuts (C) 2021.
 // Please do not copy to submit as your own work.
 
 int main(int argc, char *argv[])

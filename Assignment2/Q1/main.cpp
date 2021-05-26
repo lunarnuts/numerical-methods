@@ -9,15 +9,7 @@ int main(int argc, char *argv[])
     double r = 0.02; // Risk-free rate
     double v = 0.2;  //volatility
     double T = 5.0;  //(double)1 / (double)12; //expiration time;
-    /*
-    int N = 20; // stock price split
-    int M = 20; //time split
-    double r = 0.02;
-    double sigma = .2;
-    double K = 20;
-    double S_max = 100;
-    double T = 5; 
-    */
+
     if (argc > 1)
     {
         sscanf(argv[1], "%d", &n);

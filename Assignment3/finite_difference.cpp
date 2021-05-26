@@ -1,6 +1,6 @@
 #include "finite_difference.h"
 // Double Barrier knock-out option pricing by Finite Differene Method.
-// Created by Aigerim Tursynbekova (C) 2021.
+// Created by lunarnuts(C) 2021.
 // Please do not copy to submit as your own work.
 
 // Used https://www.quantstart.com/articles/C-Explicit-Euler-Finite-Difference-Method-for-Black-Scholes/
