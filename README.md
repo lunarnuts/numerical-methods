@@ -1,5 +1,6 @@
 # numerical-methods
-Numerical methods in Finiancial Computing, coursework for IE525 
+Numerical methods in Finiancial Computing.
+My solutions for tasks in IE525 course. Please don't copy my work in your assignments, it will result in you getting 0 and getting filed an academic misconduct, which might result in expulsion. If you have questions, try contacting me n.kuandyk1995@gmail.com. Thanks.
 
 ### Assignment 1
 project in this folder implements standard Monte-Carlo simulation with Black-Scholes-Merton model to estimate call price of European Vanilla Call option(part2) and compares efficiency and accuracy with respect to variance reduction technique called Antithetic Variates Monte Carlo method.
