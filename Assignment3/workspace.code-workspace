@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../Downloads/numerical_methods-master"
+	}
+],
+  "settings": {
+    "files.associations": {
+      "iostream": "cpp",
+      "ostream": "cpp",
+      "chrono": "cpp"
+    }
+  }
+}
